@@ -1,0 +1,38 @@
+@font-face {
+  font-family:fontnew ;
+  src: url(./VNM-Sans-Display-Regular.otf);
+}
+
+
+body{
+    background-color: #0313b0;
+    font-family: fontnew;
+}
+div{
+    text-align: center;
+    color: #ffffff ;
+  
+}
+.dong1{
+   text-align: center;
+   margin-top: 50vh;
+   transform: translateY(-50%);
+   position: relative;
+   
+}
+.dong1 h1{
+margin:0 ;
+}
+.dong2 span {
+   
+  margin-left: 250px; 
+  
+}
+.dong3 a{
+  
+  margin-left: 50px;
+  margin-right: 50px;
+  
+  
+}
+
