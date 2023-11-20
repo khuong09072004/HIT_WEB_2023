@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+  
+}
+.flex{
+   
+   
+
+}
+.banner1{
+   background-color: rgb(191, 36, 36);
+   height: 60px;
+   width: 100%;
+   
+   
+}
+.contentd{
+    color: rgb(255, 255, 255);
+    display:inline
+}
+.banner2{
+   
+    background-color: rgb(255, 255, 255);
+    height:100px;
+    width: 100%;
+}
+.timkiem{
+    border: 1px;
+    border-radius: 2px;
+}
